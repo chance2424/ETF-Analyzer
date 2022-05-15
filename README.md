@@ -2,7 +2,7 @@
 
 Building a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
 
-Technologies This program was created using Python and juypter notebook
+Technologies This program was created using Python and juypter notebook, with sql as the database
 
 Installation Guide git clone https://github.com/chance2424/ETF-Analyzer.git
 
